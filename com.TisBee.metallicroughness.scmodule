@@ -1,0 +1,16 @@
+{
+    "name": "Roughness Metallic Map",
+    "uniqueID": "com.TisBee.metallicroughness",
+    "phases": [
+        {
+            "name": "Roughness & Metallic Base",
+            "phase": "base",
+            "path": "phase_base.hlsl"
+        },
+        {
+            "name": "Roughness & Metallic Reflection",
+            "phase": "reflection",
+            "path": "phase_reflection.hlsl"
+        }
+    ]
+}
