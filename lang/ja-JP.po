@@ -5,14 +5,26 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: ja-JP\n"
 
-msgid "Roughness Map"
-msgstr "ラフネスマスク"
+msgid "Emission"
+msgstr "発光"
 
-msgid "Metallic Map"
-msgstr "メタリックマスク"
+msgid "Color"
+msgstr "カラー"
 
-msgid "Roughness Multiplier"
-msgstr "粗さ倍率"
+msgid "Emission Boost"
+msgstr "透明度"
 
-msgid "Metallic Multiplier"
-msgstr "メタリック・マルチプライヤー"
+msgid "Use Base Color"
+msgstr "ベースカラーを使う"
+
+msgid "Use Texture"
+msgstr "テクスチャを使う"
+
+msgid "Emission Texture"
+msgstr "発光テクスチャ"
+
+msgid "Use Mask"
+msgstr "マスクを使う"
+
+msgid "Additive Shading"
+msgstr "加算シェーディングを行う"
